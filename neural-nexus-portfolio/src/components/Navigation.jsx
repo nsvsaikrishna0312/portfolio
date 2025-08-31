@@ -47,9 +47,8 @@ const Navigation = () => {
             className="flex items-center gap-2"
             whileHover={{ scale: 1.05 }}
           >
-            <Brain className="w-10 h-10 text-primary neural-pulse" />
             <span className="text-2xl md:text-3xl font-bold text-white">
-              Neural<span className="text-primary">Nexus</span>
+              Sri Venkata Sai Krishna
             </span>
           </motion.div>
 

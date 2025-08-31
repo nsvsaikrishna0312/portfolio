@@ -80,7 +80,7 @@ const Hero = () => {
           transition={{ duration: 1, ease: 'easeOut' }}
         >
           <img
-            src="/krishna-hero.jpg"
+            src="/krishna.png"
             alt="Nallajarla Sri Venkata Sai Krishna"
             className="w-32 h-32 sm:w-40 sm:h-40 md:w-52 md:h-52 lg:w-100 lg:h-100 object-cover rounded-full"
           />
