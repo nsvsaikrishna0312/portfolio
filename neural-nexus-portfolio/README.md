@@ -92,7 +92,7 @@ neural-nexus-portfolio/
 ├── public/
 ├── index.html
 ├── package.json
-├── vite.config.js
+├── vite.config.mjs
 └── README.md
 ```
 
